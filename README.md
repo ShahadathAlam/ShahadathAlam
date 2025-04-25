@@ -1,34 +1,63 @@
 # Assalamualaikum, I'm Shahadath Alam 👋
 
-Welcome to my GitHub profile! I’m passionate about web development and have been learning and working with various technologies for the past year. My goal is to grow into a full-stack developer and build meaningful, impactful software solutions.
+Welcome to my GitHub profile! I'm a **full-stack developer** with a background in **Glass & Ceramic Engineering**, currently transitioning into the tech industry with a strong passion for building modern web applications.
+
+---
 
 ### 👨‍💻 About Me
 
-- 💻 **Refractory Supervisor** at Orind Special Refractories, working closely with **GPH Ispat** in Bangladesh.
-- 🌱 Learning **React.js**, **JavaScript**, **HTML**, **CSS**, and more every day.
-- 🔍 Actively seeking to transition into a career as a **full-stack developer**.
-- 🎯 Focused on creating intuitive user interfaces and efficient backend systems.
+- 🧱 Former **Refractory Supervisor** at **Orind Special Refractories**, stationed at **GPH Ispat**.
+- 💻 Currently working as a **Production Engineer** at KIAM Metal while pursuing a career in **full-stack development**.
+- 🚀 Skilled in **Next.js**, **React**, **Tailwind CSS**, **Node.js**, **MongoDB**, and more.
+- 🧠 Passionate about **AI-powered applications** and **modern frontend/backend technologies**.
+- 📘 Exploring the intersection of **Computational Material Science** and **Machine Learning**.
+
+---
 
 ### 📚 Projects I'm Proud Of
 
-- **[Forkify App](https://github.com/ShahadathAlam/forkify-course-video)**: A recipe search app built using **vanilla JavaScript** where users can search for thousands of recipes, view ingredients, and manage cooking time.
-- **[Worldwise](https://github.com/ShahadathAlam/worldwise)**: An interactive application that fetches city data based on coordinates, using **React**, **APIs**, and **maps**.
-- **[React Quiz App](https://github.com/ShahadathAlam/react-quiz)**: A dynamic quiz application developed using **React.js** to improve knowledge testing and quizzes.
+- 🔒 **[Anonymous Message App](https://github.com/ShahadathAlam/anonymous-message)**  
+  A Next.js app that lets users send & receive anonymous messages with real-time updates and secure authentication.
 
-### 💼 Skills & Technologies
+- 🧵 **[Threads App Clone](https://github.com/ShahadathAlam/threads-clone)**  
+  A social media clone built with **Next.js**, **MongoDB**, **Clerk**, and **Tailwind CSS** for posting threads and comments.
 
-- **Languages**: JavaScript, HTML, CSS
-- **Libraries & Frameworks**: React.js, Bootstrap
-- **Tools**: Git, GitHub, VSCode
-- **Concepts**: State management, APIs, DOM manipulation
+- 🧠 **[React Quiz App](https://github.com/ShahadathAlam/react-quiz)**  
+  A dynamic React.js quiz app for testing general knowledge through interactive questions.
 
-### 📫 Let's Connect
+- 🌍 **[Worldwise](https://github.com/ShahadathAlam/worldwise)**  
+  A travel log app that uses geolocation APIs to help users track visited places on a map.
 
-If you're interested in collaborating, feel free to reach out to me!
+---
 
-- **[LinkedIn](https://www.linkedin.com/in/mdshahadathalam)**
-- **[GitHub](https://github.com/ShahadathAlam)**
+### 🧠 Skills & Technologies
 
+- **Languages**: JavaScript, TypeScript, HTML, CSS  
+- **Frontend**: React.js, Next.js, Tailwind CSS, Shadcn UI  
+- **Backend**: Node.js, MongoDB, Prisma ORM  
+- **Authentication**: Clerk, NextAuth.js  
+- **Tools**: Git, GitHub, VSCode, Postman, Vercel  
+- **Other**: Zod, React Hook Form, UploadThing, Axios, OpenAI SDK  
+
+---
+
+### 🛠 Debugging & Problem Solving
+
+- ✅ Resolved **JWT Clock Skew** and **ObjectId mismatch** issues in MongoDB.
+- ✅ Fixed **Next.js routing**, **image layout bugs**, **Clerk userId undefined**, and **dynamic route handling**.
+- ✅ Improved **middleware logic**, **data fetching**, and error-handling strategies for smoother development.
+
+---
+
+### 📫 Contact Information
+
+- 📧 Email: shahadathalam@ymail.com  
+- 📱 WhatsApp: +8801837130481  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mdshahadathalam)  
+- 🌐 [Portfolio](https://shahadath-portfolio.vercel.app)  
+- 💻 [GitHub](https://github.com/ShahadathAlam)
+
+---
 
 <!---
 ShahadathAlam/ShahadathAlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
